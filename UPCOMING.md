@@ -1,6 +1,6 @@
 # Upcoming Changes
 
-- None yet!
+- Attempt to fix a very specific issue for my users with the [Dark Reader Extension](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh). Make the video player shadow not be white.
 
 # Planned Projects (No Guarantee)
 
