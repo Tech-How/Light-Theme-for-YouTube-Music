@@ -4,5 +4,6 @@
 
 # Planned Projects (No Guarantee)
 
+- Redesign music lists, like playlists and the queue.
 - Add animations to elements like the opening and closing of menus.
 - Redesign immersive header/Artist pages. (Excited for this one!)
