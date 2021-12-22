@@ -10,27 +10,24 @@ Finally, a thorough light theme for YouTube Music. Some people prefer the dark t
 
 [View release notes & CSS code](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/releases)
 
-## v1.2 Release Notes
-- Fixed Google's new cast button color
-- Fixed Play button on albums not showing text
-- Reworked button style on immersive header pages
+## v1.3 Release Notes
+- Fix/Improvement: Shadowing elements behave properly and appear dark instead of white when using the Dark Reader Extension.
+- Fixed search margins
+- Fixed color of various dialog boxes and alerts
+- Started making ALL-CAPS text lowercase
+- Verified compatibility with the new 'Related' tab
+- Made button radius on playlist submit button match those of playlists
 
 --Thanks for your support!
 
 
 ## Known Issues
-- Elipsis menu remains black on some elements
-- Fullscreen and minimize buttons remain black on Now Playing video/album artwork
-- Video overlay gradient slightly overlaps
+- Icons over dynamic content, like videos and album art, sometimes remain black
+- The video player overlay can misbehave on different screen resolutions
 - Notification text appears black when removing song from playlist
-- Left arrow gets stuck on carousel
-- Next/Prev arrows slightly off-center
-- Video player behaves strange when minimized
+- Arrows get stuck on carosel (Can be solved by holding 'Shift' while scrolling)
 - Loader around play button remains black
-- Some artist page elements remain black
 - Artist photos are confined to squares on the home page
-- Back arrow on account switcher background matches site background
-- Video player "mouse-over" region expands slightly beyond container
 
 
 ## Manual Installation Instructions
