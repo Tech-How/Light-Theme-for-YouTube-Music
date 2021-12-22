@@ -11,7 +11,7 @@ Finally, a thorough light theme for YouTube Music. Some people prefer the dark t
 [View release notes & CSS code](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/releases)
 
 ## v1.3 Release Notes
-- Fix/Improvement: Shadowing elements behave properly and appear dark instead of white when using the Dark Reader Extension.
+- Fix/Improvement: Shadowing elements behave properly and appear dark instead of inverted when using the Dark Reader Extension.
 - Fixed search margins
 - Fixed color of various dialog boxes and alerts
 - Started making ALL-CAPS text lowercase
