@@ -8,7 +8,7 @@ Finally, a thorough light theme for YouTube Music. Some people prefer the dark t
 
 **[Get update notifications](https://docs.google.com/forms/d/e/1FAIpQLSfP30oTyvJfdZN0uIe-EXf8RXHiA_gzssLDjOTXr_5ggWhNaw/viewform?usp=pp_url&entry.635720994=Subscribe+to+update+notifications)**
 
-[View release notes & CSS code](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/releases)
+[View release notes & CSS](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/releases)
 
 ## v1.4 Release Notes
 - Updated logo
