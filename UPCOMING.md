@@ -1,4 +1,5 @@
 # Upcoming Changes
+- Nothing yet! Last update was on Jan 7th, 2022.
 
 # Planned Projects (No Guarantee)
 
