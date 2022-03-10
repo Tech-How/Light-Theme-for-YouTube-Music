@@ -31,7 +31,7 @@ Finally, a thorough light theme for YouTube Music. Some people prefer the dark t
 
 ## Manual Installation Instructions
 If [Userstyles.org](https://userstyles.org) isn't working for you, you can install the skin manually.
-- **Important:** Stylish is now charging a subscription to access their extension. Since this style works best with Stylish, you can download an old copy of the extension without the paywall [here.](https://mega.nz/file/LMdxlCJB#IU-kAcQ6efh4NRDoG3z1045I7MR9Z74rP2W9P12fHPs) In Chrome or Edge, uninstall the existing extension. Type chrome://extensions into the address bar. Enable developer mode and click **Load unpacked.** Choose the folder you downloaded that has the version number, and enjoy!
+- **Important:** Stylish is now charging a subscription to access their extension. If you've reached your style limit, you could download an old copy of the extension without the paywall [here.](https://mega.nz/file/LMdxlCJB#IU-kAcQ6efh4NRDoG3z1045I7MR9Z74rP2W9P12fHPs) In Chrome or Edge, uninstall the existing extension. Type chrome://extensions into the address bar. Enable developer mode and click **Load unpacked.** Choose the folder you downloaded that has the version number, and enjoy!
 1. Install the Stylish *[extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe)* (You can use other style managers, but they may cause style glitches and instructions will vary.)
 2. Right-click on the extension, and open the options page.
 3. Click 'Write new style'
