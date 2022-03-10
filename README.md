@@ -10,12 +10,10 @@ Finally, a thorough light theme for YouTube Music. Some people prefer the dark t
 
 [View release notes & CSS](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/releases)
 
-## v1.4 Release Notes
-- Updated logo
-- Fixed black-on-black text for new users on the immersive home page
-- Fixed sign in button contrast
-- Fixed bottom bar color on the "Pick artists you like" page
-- Tweaked album art radius on the player bar
+## v1.5 Release Notes
+- Fixed style not applying to music upload box
+- Removed unnecessary leftover data from the code
+- Fixed volume slider not appearing on small window sizes
 
 --Thanks for your support!
 
@@ -24,7 +22,7 @@ Finally, a thorough light theme for YouTube Music. Some people prefer the dark t
 - Icons over dynamic content, like videos and album art, sometimes remain black
 - The video player overlay can misbehave on different screen resolutions
 - Notification text appears black when removing song from playlist
-- Arrows get stuck on carosel (Can be solved by holding 'Shift' while scrolling)
+- Arrows get stuck on carousel (Can be solved by holding 'Shift' while scrolling)
 - Loader around play button remains black
 - Artist photos are confined to squares on the home page
 
