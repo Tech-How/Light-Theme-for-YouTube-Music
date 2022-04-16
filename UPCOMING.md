@@ -1,5 +1,5 @@
 # Upcoming Changes
-- Nothing yet! Last update was on Jan 7th, 2022.
+- Style Google's new feature: Seamless switching between Song and Video on the player page. (Waiting for it to fully roll out)
 
 # Planned Projects (No Guarantee)
 
