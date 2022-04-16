@@ -1,5 +1,5 @@
 # Upcoming Changes
-- Style Google's new feature: Seamless switching between Song and Video on the player page. (Waiting for Google to fix a few bugs)
+- Style Google's new feature: Seamless switching between Song and Video on the player page. (Waiting for the team to fix a few bugs)
 
 # Planned Projects (No Guarantee)
 
