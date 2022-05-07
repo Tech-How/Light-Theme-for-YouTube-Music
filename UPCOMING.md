@@ -1,5 +1,6 @@
 # Upcoming Changes
 - Style Google's new feature: Seamless switching between Song and Video on the player page. (Waiting for the team to fix a few bugs)
+(Update 5/7/22: Bug report submitted to Google, will wait for a possible fix before hiding the element with the display property.)
 
 # Planned Projects (No Guarantee)
 
