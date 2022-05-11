@@ -12,10 +12,9 @@ Finally, a thorough light theme for YouTube Music. Some people prefer the dark t
 
 [View release notes & CSS](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/releases)
 
-## v1.5 Release Notes
-- Fixed volume slider not appearing on small window sizes
-- Fixed style not applying to music upload box
-- Removed unnecessary leftover data from the code
+## v1.6 Release Notes
+- Removed audio/video switcher (Caused artwork to fly off the screen)
+- Styled pop-up promo dialogs
 
 --Thanks for your support!
 
