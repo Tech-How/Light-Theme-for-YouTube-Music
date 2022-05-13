@@ -1,5 +1,5 @@
 # Upcoming Changes
-- Nothing yet, stay tuned! <a href="mailto:tech_how_youtuber55@yahoo.com?subject=Suggestion%3A%20Light%20YouTube Music">Have a suggestion?</a>
+- Fix black text on pop-ups when you add a song to a playlist, like a song, dislike, etc. I plan to make them white for consistency with other pop-ups.
 
 # Planned Projects (No Guarantee)
 
