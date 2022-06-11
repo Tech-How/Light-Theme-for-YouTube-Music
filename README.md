@@ -1,4 +1,5 @@
 # Light Theme for YouTube Music
+Making YouTube Music beautiful, and accessible.
 
 <img src="https://i.ibb.co/B2QssLZ/promo.png"/>
 
