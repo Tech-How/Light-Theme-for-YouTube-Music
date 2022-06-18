@@ -1,7 +1,7 @@
 # Light Theme for YouTube Music
 Making YouTube Music beautiful, and accessible.
 
-<img src="https://i.ibb.co/B2QssLZ/promo.png"/>
+<img src="https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/images/repo/readme/2.png"/>
 
 Finally, a thorough light theme for YouTube Music. Some people prefer the dark theme, but for most people, black text on a white background is easier to read. I've gone above and beyond simply changing the background to solid white and the text to solid black. I've tried different shades, faded the colors out a little, and constructed a public release of this project. I've gone through every menu, including the Settings page, Upgrade tab, fullscreen player, album page, playlist editing, scroll bars, and much more. And with a bit of inspiration from Apple's design choices, added rounded corners and shadowing to elements like album artwork to make them pop. Heck, I've even fixed three of Google's bugs/bad margin choices in the process! After weeks of work and thinking, I'm proud to present this theme that I hope you will enjoy and that I hope to maintain. Please consider [subscribing](https://docs.google.com/forms/d/e/1FAIpQLSfP30oTyvJfdZN0uIe-EXf8RXHiA_gzssLDjOTXr_5ggWhNaw/viewform?usp=pp_url&entry.635720994=Subscribe+to+update+notifications) to update notifications for bug fixes and improvements, and always send a message if you find a bug or have a suggestion!
 
