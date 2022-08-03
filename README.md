@@ -7,8 +7,6 @@ Finally, a thorough light theme for YouTube Music. Some people prefer the dark t
 
 **[Install with Stylish extension](https://userstyles.org/styles/207587/light-theme-for-youtube-music)** | [Open a new issue/feature request](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/issues/new/choose) | [Send feedback via email](mailto:tech_how_youtuber_55@yahoo.com?subject=YTM%20Light%20Theme%20Feedback)
 
-**[⚠Paywall info⚠](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/blob/main/README.md#:~:text=Stylish%20is%20now%20charging%20a%20subscription%20to%20access%20their%20extension.)**
-
 **[Get update notifications](https://docs.google.com/forms/d/e/1FAIpQLSfP30oTyvJfdZN0uIe-EXf8RXHiA_gzssLDjOTXr_5ggWhNaw/viewform?usp=pp_url&entry.635720994=Subscribe+to+update+notifications)**
 
 [View release notes & CSS](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/releases)
