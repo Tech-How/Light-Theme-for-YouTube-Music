@@ -27,7 +27,6 @@ Finally, a thorough light theme for YouTube Music. Some people prefer the dark t
 ## Known Issues
 - Icons over dynamic content, like videos and album art, sometimes remain black
 - The video player overlay can misbehave on different screen resolutions
-- Arrows get stuck on carousel (Can be solved by holding 'Shift' while scrolling)
 - Loader around play button remains black
 - Artist photos are confined to squares on the home page
 
