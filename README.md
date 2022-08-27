@@ -15,7 +15,7 @@ Finally, a thorough light theme for YouTube Music. Some people prefer the dark t
 - Removed outline from left/right arrows on album carousel
 - Moved history glyph in library tab next to carousel title
 - The modified logo is now hosted directly on my GitHub repo
-- Changed link in about text, the gg.gg link shortener is officially dead
+- Changed link in about text
 
 --Thanks for your support!
 
