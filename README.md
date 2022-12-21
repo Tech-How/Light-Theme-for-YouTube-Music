@@ -9,13 +9,11 @@ Finally, a thorough light theme for YouTube Music. Some people prefer the dark t
 
 **[Get update notifications](https://docs.google.com/forms/d/e/1FAIpQLSfP30oTyvJfdZN0uIe-EXf8RXHiA_gzssLDjOTXr_5ggWhNaw/viewform?usp=pp_url&entry.635720994=Subscribe+to+update+notifications)**
 
-## v1.7 Release Notes
-- Notifications now use a light background
-- Added compatibility for new checkbox feature
-- Removed outline from left/right arrows on album carousel
-- Moved history glyph in library tab next to carousel title
-- The modified logo is now hosted directly on my GitHub repo
-- Changed link in about text
+## v1.8 Release Notes
+- Redesigned drag-and-drop experience when re-ordering songs
+- Styled hover tooltips on playlist multiselect control bar
+- Fixed issue where gray box would appear behind album art for premium subscribers
+- Encoded the updated logo in base64 within the style itself
 
 --Thanks for your support!
 
@@ -23,7 +21,6 @@ Finally, a thorough light theme for YouTube Music. Some people prefer the dark t
 ## Known Issues
 - Icons over dynamic content, like videos and album art, sometimes remain black
 - The video player overlay can misbehave on different screen resolutions
-- Loader around play button remains black
 - Artist photos are confined to squares on the home page
 
 
