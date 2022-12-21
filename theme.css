@@ -23,7 +23,7 @@ ytmusic-nav-bar .left-content [aria-label=Home] picture {
   display: none !important;
 }
 ytmusic-nav-bar .left-content [aria-label=Home] {
-    background: url(https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/images/style/ytm-logo-beta.png);
+    background: url(data:image/png;base64,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);
     border-radius: 5px;
     width: 120px;
     height: 30px;
@@ -366,12 +366,30 @@ ytmusic-player-queue-item {
     border-color: #ccc;
 }
 
+body > ytmusic-player-queue-item, body > ytmusic-responsive-list-item-renderer {
+    background: #F8F8F8 !important;
+    border-radius: 8px !important;
+    box-shadow: 0px 0px 10px -4px rgba(0,0,0,0.60);
+}
+
 /* Text Transform */
 #tabsContent.tp-yt-paper-tabs, yt-button-renderer yt-formatted-string.yt-button-renderer, .tab-content.tp-yt-paper-tab, tp-yt-paper-button.ytmusic-playlist-form, .tab.ytmusic-item-section-tab-renderer, .tab.selected.ytmusic-item-section-tab-renderer, .more-button.ytmusic-shelf-renderer tp-yt-paper-button.ytmusic-shelf-renderer, tp-yt-paper-button.ytmusic-toggle-button-renderer yt-icon.ytmusic-toggle-button-renderer~yt-formatted-string.ytmusic-toggle-button-renderer, .style-scope.ytmusic-subscribe-button-renderer, .sign-in-link.ytmusic-nav-bar, .done-button.ytmusic-uploads-complete, .library-button.ytmusic-uploads-complete, .stop-button.ytmusic-upload-progression {
     text-transform: none;
 }
 
 	/* Song Artwork Mod */
+yt-img-shadow#thumbnail.thumbnail.style-scope.ytmusic-player.no-transition {
+    background-color: transparent !important;
+}
+
+ytmusic-player#player.style-scope.ytmusic-player-page {
+    background-color: transparent !important;
+}
+
+ytmusic-player {
+    background-color: transparent !important;
+}
+
 yt-img-shadow[object-fit=COVER] img.yt-img-shadow {
     box-shadow: 3px 3px 15px rgba(0, 0, 0, .5) !important;
     border-radius: 10px;
@@ -681,6 +699,10 @@ ytmusic-dialog[dialog-type=multiSelectMenuBar] {
     background-color: #F4F4F4;
 }
 
+.tp-yt-paper-tooltip[style-target=tooltip] {
+    background-color: #F4F4F4;
+}
+
 yt-icon, .yt-icon-container.yt-icon {
     fill: #262626;
 }
@@ -748,7 +770,7 @@ tp-yt-paper-toggle-button[checked]:not([disabled]) .toggle-bar.tp-yt-paper-toggl
 }
 
 /* Settings Page */
-.dialog-title:after {content: " ‍  ‍  ‍ ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍ Light Theme for YouTube Music ‍  ‍  ‍  [Ver. 1.7]  ‍  ‍  ‍ (By Tech How)";}
+.dialog-title:after {content: " ‍  ‍  ‍ ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍ Light Theme for YouTube Music ‍  ‍  ‍  [Ver. 1.8]  ‍  ‍  ‍ (By Tech How)";}
 
 .top-bar.ytmusic-settings-page, ytmusic-setting-category-collection-renderer.ytmusic-settings-page, .items.ytmusic-setting-category-collection-renderer > *.ytmusic-setting-category-collection-renderer {
     border-color: #ccc;
