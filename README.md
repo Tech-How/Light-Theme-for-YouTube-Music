@@ -7,6 +7,8 @@ Finally, a thorough light theme for YouTube Music. Some people prefer the dark t
 
 ⚠ YouTube is currently rolling out a new button shape for various elements, and it has been known to break this style. It's not fully rolled out to me yet, but when it does, I will start working on a fix. This will take a while, as my time is finite and restyling every button on the webpage can take quite a while. I appreciate your patience and understanding!
 
+Update: I am currently patching the style as of March 7th, 2023. Expect an update soon!
+
 ⚠ In the coming months, my styles will be migrating to the Stylus extension and will be hosted on userstyles.world. [Learn more](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/blob/main/migration.md) about what this change means for you, and what steps you should take.
 
 **[Install with Stylish extension](https://userstyles.org/styles/207587/light-theme-for-youtube-music)** | [Get Update Notifications](https://docs.google.com/forms/d/e/1FAIpQLSfP30oTyvJfdZN0uIe-EXf8RXHiA_gzssLDjOTXr_5ggWhNaw/viewform?usp=pp_url&entry.635720994=Subscribe+to+update+notifications)
