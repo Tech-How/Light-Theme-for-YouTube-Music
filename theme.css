@@ -151,6 +151,10 @@ a.ytmusic-content-update-chip {
     background: #fff;
 }
 
+.yt-spec-button-shape-next--call-to-action-inverse.yt-spec-button-shape-next--text:hover {
+    background: #fff !important;
+}
+
 /* Site Background */
 body {
     background-color: #F4F4F4;
@@ -159,6 +163,23 @@ body {
 /* Page Headings */
 .title.text.style-scope.ytmusic-carousel-shelf-basic-header-renderer {
     color: #262626;
+}
+
+/* New Chips Style */
+a.ytmusic-chip-cloud-chip-renderer {
+    border: 1px solid #fff !important;
+}
+
+ytmusic-chip-cloud-renderer:first-of-type ytmusic-chip-cloud-chip-renderer.ytmusic-chip-cloud-renderer:first-of-type {
+    margin-left: 6px;
+}
+
+ytmusic-chip-cloud-chip-renderer.ytmusic-chip-cloud-renderer {
+    margin-bottom: 3px !important;
+}
+
+#chips.ytmusic-chip-cloud-renderer {
+    margin-bottom: 3px
 }
 
 /* Icons */
@@ -181,15 +202,11 @@ body {
 }
 
 #items.ytmusic-carousel {
-    padding: 15px;
+    padding: 8px;
 }
 
 .next-items-button.ytmusic-carousel, .previous-items-button.ytmusic-carousel {
     top: 100px;
-}
-
-.header.ytmusic-carousel-shelf-renderer {
-    margin-bottom: -15px;
 }
 
 img.yt-img-shadow {
@@ -204,10 +221,6 @@ img.yt-img-shadow {
 /* Artwork/Album Carousel */
 tp-yt-paper-icon-button.ytmusic-carousel-shelf-renderer {
     border: none;
-}
-
-ytmusic-carousel-shelf-basic-header-renderer[enable-bauhaus-style] .details.ytmusic-carousel-shelf-basic-header-renderer {
-    justify-content: start;
 }
 
 /* Context Menus */
@@ -375,6 +388,10 @@ body > ytmusic-player-queue-item, body > ytmusic-responsive-list-item-renderer {
 /* Text Transform */
 #tabsContent.tp-yt-paper-tabs, yt-button-renderer yt-formatted-string.yt-button-renderer, .tab-content.tp-yt-paper-tab, tp-yt-paper-button.ytmusic-playlist-form, .tab.ytmusic-item-section-tab-renderer, .tab.selected.ytmusic-item-section-tab-renderer, .more-button.ytmusic-shelf-renderer tp-yt-paper-button.ytmusic-shelf-renderer, tp-yt-paper-button.ytmusic-toggle-button-renderer yt-icon.ytmusic-toggle-button-renderer~yt-formatted-string.ytmusic-toggle-button-renderer, .style-scope.ytmusic-subscribe-button-renderer, .sign-in-link.ytmusic-nav-bar, .done-button.ytmusic-uploads-complete, .library-button.ytmusic-uploads-complete, .stop-button.ytmusic-upload-progression {
     text-transform: none;
+}
+
+.tab.ytmusic-tabs {
+    text-transform: capitalize;
 }
 
 	/* Song Artwork Mod */
@@ -545,6 +562,10 @@ button.yt-icon-button {
     text-transform: none;
 }
 
+.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--filled:hover {
+    background-color: #fff;
+}
+
 /* Other Dialog Boxes */
 yt-confirm-dialog-renderer[dialog][dialog][dialog] {
     background: #F4F4F4;
@@ -594,10 +615,6 @@ tp-yt-paper-icon-item.ytd-account-item-renderer:hover {
 }
 
 	/* Below Content Margins */
-#contents.ytmusic-section-list-renderer > ytmusic-shelf-renderer.ytmusic-section-list-renderer:not(:last-child):not([is-empty_]).ytmusic-section-list-renderer {
-    margin-top: -25px;
-}
-
 .image.ytmusic-immersive-header-renderer ~ .content-container-wrapper.ytmusic-immersive-header-renderer .content-container.ytmusic-immersive-header-renderer {
     padding: 0 0 30px;
 }
@@ -638,6 +655,23 @@ ytmusic-list-item-renderer .ytmusic-play-button-renderer {
 #button.style-scope.yt-button-renderer.size-default, .sign-in-link.ytmusic-nav-bar {
     border: 1px solid #ccc;
     border-radius: 5px;
+}
+
+yt-button-renderer.ytmusic-menu-renderer, .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--outline, .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--outline:hover {
+    border-radius: 20px;
+    border: 1px solid #ccc;
+}
+
+.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--outline:hover {
+    background: #D9D9D9;
+}
+
+.yt-core-attributed-string--white-space-no-wrap {
+    color: #262626;
+}
+
+#button-shape-subscribe > button > div > span:nth-child(1), #button-shape-subscribe > button > div > span.yt-core-attributed-string.ytmusic-subscribe-button-renderer.count-text.yt-core-attributed-string--white-space-no-wrap {
+    color: #FF4E45;
 }
 
 .play-button.style-scope.ytmusic-immersive-header-renderer.style-dark-on-white.size-default, .radio-button.ytmusic-immersive-header-renderer {
@@ -707,6 +741,10 @@ yt-icon, .yt-icon-container.yt-icon {
     fill: #262626;
 }
 
+#top-level-buttons > yt-button-renderer.edit-playlist-button.style-scope.ytmusic-menu-renderer, ytmusic-menu-renderer[force-top-level-buttons-icon-only] yt-button-renderer.ytmusic-menu-renderer {
+    border-color: #F4F4F4;
+}
+
 /* Edit Playlist Metadata */
 ytmusic-dialog {
     border-color: transparent;
@@ -764,13 +802,37 @@ tp-yt-paper-toggle-button[checked]:not([disabled]) .toggle-bar.tp-yt-paper-toggl
     border-radius: 5px;
 }
 
+#general-pane > div.actions.style-scope.ytmusic-playlist-form > yt-button-shape:nth-child(7) > button, #collaborate-pane > div.actions.style-scope.ytmusic-playlist-form > yt-button-shape > button {
+    background: #262626;
+}
+
+#general-pane > div.actions.style-scope.ytmusic-playlist-form > yt-button-shape:nth-child(7) > button > div, #collaborate-pane > div.actions.style-scope.ytmusic-playlist-form > yt-button-shape > button > div {
+    color: #fff;
+}
+
+#general-pane > div.actions.style-scope.ytmusic-playlist-form > yt-button-shape:nth-child(3) > button > yt-touch-feedback-shape > div {
+    border: 1px solid #ccc;
+}
+
+#general-pane > div.actions.style-scope.ytmusic-playlist-form > yt-button-shape:nth-child(3) > button > div {
+    color: #262626;
+}
+
+#general-pane > div.actions.style-scope.ytmusic-playlist-form > yt-button-shape:nth-child(3) > button:hover {
+    background: #D9D9D9;
+}
+
+.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--filled {
+    background: #fff;
+}
+
 /* Play Button (On Artwork) */
 .icon.ytmusic-play-button-renderer {
     fill: #F0F0F0
 }
 
 /* Settings Page */
-.dialog-title:after {content: " ‍  ‍  ‍ ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍ Light Theme for YouTube Music ‍  ‍  ‍  [Ver. 1.8]  ‍  ‍  ‍ (By Tech How)";}
+.dialog-title:after {content: " ‍  ‍  ‍ ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍ Light Theme for YouTube Music ‍  ‍  ‍  [Ver. 1.9]  ‍  ‍  ‍ (By Tech How)";}
 
 .top-bar.ytmusic-settings-page, ytmusic-setting-category-collection-renderer.ytmusic-settings-page, .items.ytmusic-setting-category-collection-renderer > *.ytmusic-setting-category-collection-renderer {
     border-color: #ccc;
