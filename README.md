@@ -1,25 +1,24 @@
 # Light Theme for YouTube Music
-Making YouTube Music beautiful, and accessible.
+A refreshing new look for YouTube Music.
 
-<img src="https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/images/repo/readme/3.png"/>
+<img src="https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/images/repo/readme/4.png"/>
 
-Finally, a thorough light theme for YouTube Music. Some people prefer the dark theme, but for most people, black text on a white background is easier to read. I've gone above and beyond simply changing the background to solid white and the text to solid black. I've tried different shades, faded the colors out a little, and constructed a public release of this project. I've gone through every menu, including the Settings page, Upgrade tab, fullscreen player, album page, playlist editing, scroll bars, and much more. And with a bit of inspiration from Apple's design choices, added rounded corners and shadowing to elements like album artwork to make them pop. Heck, I've even fixed three of Google's bugs/bad margin choices in the process! After weeks of work and thinking, I'm proud to present this theme that I hope you will enjoy and that I hope to maintain. Please consider [subscribing](https://docs.google.com/forms/d/e/1FAIpQLSfP30oTyvJfdZN0uIe-EXf8RXHiA_gzssLDjOTXr_5ggWhNaw/viewform?usp=pp_url&entry.635720994=Subscribe+to+update+notifications) to update notifications for bug fixes and improvements, and always send a message if you find a bug or have a suggestion!
-
-⚠ YouTube is currently rolling out a new button shape for various elements, and it has been known to break this style. It's not fully rolled out to me yet, but when it does, I will start working on a fix. This will take a while, as my time is finite and restyling every button on the webpage can take quite a while. I appreciate your patience and understanding!
-
-Update: I am currently patching the style as of March 7th, 2023. Expect an update soon!
+A simple, minimalist style for the YouTube Music web client that enables light mode and other small enhancements. It's important for the web to be accessible to everyone, and not having the option for a light color palette hinders the experience for some users. Or maybe you simply prefer a light theme. Either way, this style aims to give YouTube Music an updated look and feel that's more consistent with the modern web. I'm always looking to improve, so if you notice an issue or have a suggestion, feel free to send it my way. Hope you like it!
 
 ⚠ In the coming months, my styles will be migrating to the Stylus extension and will be hosted on userstyles.world. [Learn more](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/blob/main/migration.md) about what this change means for you, and what steps you should take.
 
-**[Install with Stylish extension](https://userstyles.org/styles/207587/light-theme-for-youtube-music)** | [Get Update Notifications](https://docs.google.com/forms/d/e/1FAIpQLSfP30oTyvJfdZN0uIe-EXf8RXHiA_gzssLDjOTXr_5ggWhNaw/viewform?usp=pp_url&entry.635720994=Subscribe+to+update+notifications)
+**[Install with Stylish extension](https://userstyles.org/styles/207587/light-theme-for-youtube-music)**
 
 [Issues/Feedback Center](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/issues/new/choose)
 
-## v1.8 Release Notes
-- Redesigned drag-and-drop experience when re-ordering songs
-- Styled hover tooltips on playlist multiselect control bar
-- Fixed issue where gray box would appear behind album art for premium subscribers
-- Encoded the updated logo in base64 within the style itself
+## v1.9 Release Notes
+- Patched style for Google's new button type
+- Small margin fixes on mood chips
+- Re-adjusted margins on several pages
+- Fixed coloring of links on notifications
+- Fixed coloring of share dialog
+- Adjusted text casing on updated pages
+- Removed left-alignment for history button on library page as it's been removed
 
 --Thanks for your support!
 
