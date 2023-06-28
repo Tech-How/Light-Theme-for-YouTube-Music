@@ -10,6 +10,8 @@ A simple, minimalist style for the YouTube Music web client that enables light m
 [![Install with Stylus](https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/images/repo/readme/install-button.png)](https://userstyles.world/style/8981/light-theme-for-youtube-music)
 [![Issues/Feedback](https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/images/repo/readme/issues-button.png)](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/issues/new/choose)
 
+[Need help installing?](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/blob/main/HELP.md)
+
 _These UI tweaks are also available in [dark mode](https://userstyles.world/style/8982/youtube-music-tweaks)._
 
 ## v1.9 Release Notes
