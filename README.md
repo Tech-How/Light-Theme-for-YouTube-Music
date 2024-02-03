@@ -30,6 +30,3 @@ _These UI tweaks are also available in [dark mode](https://userstyles.world/styl
 - Icons over dynamic content, like videos and album art, sometimes remain black
 - The video player overlay can misbehave on different screen resolutions
 - Artist photos are confined to squares on the home page
-
----
-**This theme may not be copied and/or redistributed in any way, shape or form, excluding the one copy you obtain from my Userstyles or GitHub page.**
