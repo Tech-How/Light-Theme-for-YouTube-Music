@@ -22,7 +22,7 @@ To install this style, you'll need a browser that supports custom CSS injection.
 - Download and install the [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) add-on, then use the corresponding button above.
 
 ### Safari
-- Purchase [Cascadea](https://apps.apple.com/app/cascadea/id1432182561) from the Mac App Store, and copy the CSS code into the application.
+- Purchase [Cascadea](https://apps.apple.com/app/cascadea/id1432182561) from the Mac App Store, and use the Install with Stylus button. Follow the instructions provided by the application.
 
 ## Known Issues
 - Icons over dynamic content, like videos and album art, sometimes remain black
