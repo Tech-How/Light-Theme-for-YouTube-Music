@@ -24,6 +24,9 @@ To install this style, you'll need a browser that supports custom CSS injection.
 ### Safari
 - Purchase [Cascadea](https://apps.apple.com/app/cascadea/id1432182561) from the Mac App Store, and use the Install with Stylus button. Follow the instructions provided by the application.
 
+## Issues/Feedback
+You may report issues or suggest feedback [here](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/issues).
+
 ## Known Issues
 - Icons over dynamic content, like videos and album art, sometimes remain black
 - The video player overlay can misbehave on different screen resolutions
