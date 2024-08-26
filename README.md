@@ -31,6 +31,5 @@ The code here is available in UserCSS and raw Mozilla formats. Raw Mozilla forma
 You may report issues or suggest feedback [here](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/issues).
 
 ## Known Issues
-- Icons over dynamic content, like videos and album art, sometimes remain black
 - The video player overlay can misbehave on different screen resolutions
-- Artist photos are confined to squares on the home page
+- Non-square images may have square shadow outline
