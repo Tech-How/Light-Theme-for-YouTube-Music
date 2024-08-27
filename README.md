@@ -4,7 +4,7 @@ A refreshing new look for YouTube Music.
 # This theme is currently being updated, and the sidebar issues will be patched soon. Started work August 25th 2024
 Update, I'm currently stying all of the podcast views and patching up new elements of the redesign. It's looking great so far, excited to release it.
 
-![Project Screenshot](https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/images/repo/readme/4.png)
+![Project Screenshot](https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/images/promo.png)
 
 A simple, minimalist style for the YouTube Music web client that enables light mode and other small enhancements. It's important for the web to be accessible to everyone, and not having the option for a light color palette hinders the experience for some users. Or maybe you simply prefer a light theme. Either way, this style aims to give YouTube Music an updated look and feel that's more consistent with the modern web. I'm always looking to improve, so if you notice an issue or have a suggestion, feel free to send it my way. Hope you like it!
 
