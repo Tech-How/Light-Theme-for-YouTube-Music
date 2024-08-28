@@ -33,3 +33,4 @@ You may report issues or suggest feedback [here](https://github.com/Tech-How/Lig
 
 ## Known Issues
 - Non-square images may have square shadow outline
+- Logos on paid memberships page remain white
