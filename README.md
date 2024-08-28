@@ -32,5 +32,4 @@ The code here is available in UserCSS and raw Mozilla formats. Raw Mozilla forma
 You may report issues or suggest feedback [here](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/issues).
 
 ## Known Issues
-- The video player overlay can misbehave on different screen resolutions
 - Non-square images may have square shadow outline
