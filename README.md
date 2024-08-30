@@ -26,7 +26,7 @@ To install this style, you'll need a browser that supports custom CSS injection.
 - Purchase [Cascadea](https://apps.apple.com/app/cascadea/id1432182561) from the Mac App Store, and use the Install with Stylus button. Follow the instructions provided by the application.
 
 ### Mobile Browsers
-- This style supports the mobile website! Firefox on Android is officially supported, as it contains desktop extension support. On iOS, the Hyperweb app can inject CSS into Safari, but is not officially supported and may not work.
+- This style supports the mobile website! The officially supported method for this is Firefox for Android, as it allows for desktop extensions like Stylus to run. On iOS, the Hyperweb app can inject CSS into Safari, but is not officially supported and may not work.
 
 ## Code Formats
 The code here is available in UserCSS and raw Mozilla formats. Raw Mozilla format omits all user-configurable variables (if applicable) and keeps them at their default settings. USO format is not posted here due to complexity and seeing no tangible benefit.
