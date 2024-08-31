@@ -25,6 +25,17 @@ To install this style, you'll need a browser that supports custom CSS injection.
 ### Mobile Browsers
 - This style supports the mobile website! Firefox for Android is officially supported, as it allows for desktop extensions like Stylus to run. On iOS, the Hyperweb app can inject CSS into Safari, but is not officially supported and may not work.
 
+## Customization
+This style contains options that can be configured during or after the install.
+### Stylus
+- Customize the style using the configure pop-up in the upper right during the installation. To change settings after the installation, visit the website the style applies to, click the Stylus icon in your browser's toolbar, and select the gear icon next to the style's name.
+
+### Stylish
+- Customize the style using the gear icon next to the 'Install Style' button on the style's home page. To change settings after the installation, you must remove the style, and re-install it with the new settings.
+
+### Other
+- User-configurable variables are only provided in the UserCSS and USO code formats. Other style managers that support UserCSS may still allow this functionality.
+
 ## Code Formats
 The code here is available in UserCSS and raw Mozilla formats. Raw Mozilla format omits all user-configurable variables (if applicable) and keeps them at their default settings. USO format is not posted here due to complexity and seeing no tangible benefit.
 
