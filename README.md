@@ -1,8 +1,5 @@
 # Light Theme for YouTube Music
-A refreshing new look for YouTube Music.
-
-# This theme is currently being updated, and the sidebar issues will be patched soon. Started work August 25th 2024
-Update, I'm currently stying all of the podcast views and patching up new elements of the redesign. It's looking great so far, excited to release it.
+A refreshing new look for YouTube Music. Going live soon.
 
 ![Project Screenshot](https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/images/promo.png)
 
