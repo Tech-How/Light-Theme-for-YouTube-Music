@@ -11,7 +11,7 @@ A simple, minimalist style for the YouTube Music web client that enables light m
 
 _~~All UI enhancements are also available without this theme [here](https://userstyles.world/style/8982/youtube-music-tweaks).~~_ **Coming soon!**
 
-## Installation
+## 🔽 Installation
 To install this style, you'll need a browser that supports custom CSS injection. 
 ### Chrome/Edge/Opera (And Chromium derivitives)
 - Download and install the [Stylish](https://chromewebstore.google.com/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) extension, then use the corresponding button above.
@@ -25,7 +25,7 @@ To install this style, you'll need a browser that supports custom CSS injection.
 ### Mobile Browsers
 - This style supports the mobile website! Firefox for Android is officially supported, as it allows for desktop extensions like Stylus to run. On iOS, the Hyperweb app can inject CSS into Safari, but is not officially supported and may not work.
 
-## Customization
+## 🎨 Customization
 This style contains options that can be configured during or after the install.
 ### Stylus
 - Customize the style using the configure pop-up in the upper right during the installation. To change settings after the installation, visit the website the style applies to, click the Stylus icon in your browser's toolbar, and select the gear icon next to the style's name.
@@ -36,13 +36,13 @@ This style contains options that can be configured during or after the install.
 ### Other
 - User-configurable variables are only provided in the UserCSS and USO code formats. Other style managers that support UserCSS may still allow this functionality.
 
-## Code Formats
+## 🛠 Code Formats
 The code here is available in UserCSS and raw Mozilla formats. Raw Mozilla format omits all user-configurable variables (if applicable) and keeps them at their default settings. USO format is not posted here due to complexity and seeing no tangible benefit.
 
-## Issues/Feedback
+## 💬 Issues/Feedback
 You may report issues or suggest feedback [here](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/issues).
 
-## Known Issues
+## ❗ Known Issues
 - Non-square images may have square shadow outline
 - Logos on paid memberships page remain white
 - Downloading icon turns white during downloads on playlist/album view
