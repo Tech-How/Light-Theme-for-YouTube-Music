@@ -2,7 +2,7 @@
 <p align="center">A refreshing new look for YouTube Music. Going live soon.</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/images/ytm_icon.svg" /></p>
+  <img src="https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/images/ytm_icon_large.png" /></p>
   <img src="https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/images/promo.png" />
 </p>
 
