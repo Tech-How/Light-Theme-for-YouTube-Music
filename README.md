@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/images/promo.png" />
 </p>
 
-<p align="center">Give YouTube Music a fresh coat of paint with this meticulously designed style. Apart from providing an all-new look, it features many small enhancements to the website, refactoring more than just the color scheme. Available for all major platforms.</p>
+<p align="center">Give YouTube Music a fresh coat of paint with this meticulously designed style. Apart from providing an all-new look, it features many small enhancements to the website, refactoring more than just the color scheme.</p>
 
 <p align="center">
   <a href="https://userstyles.world/style/8981/light-theme-for-youtube-music" target="_blank"><img src="https://img.shields.io/badge/Install_with-Stylus-238b8b?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjE2cHgiIHdpZHRoPSIxNnB4IiB2ZXJzaW9uPSIxLjEiIGlkPSJYTUxJRF8yODhfIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiANCgkgdmlld0JveD0iMCAwIDI0IDI0IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxnIGlkPSJkb3dubG9hZCI+DQoJPGc+DQoJCTxwYXRoIGQ9Ik0yNCwyNEgwdi04aDJ2NmgyMHYtNmgyVjI0eiBNMTIsMTguNGwtNy43LTcuN2wxLjQtMS40bDUuMyw1LjNWMGgydjE0LjZsNS4zLTUuM2wxLjQsMS40TDEyLDE4LjR6Ii8+DQoJPC9nPg0KPC9nPg0KPC9zdmc+" alt="Install With Stylus"></a>
