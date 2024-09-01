@@ -44,6 +44,8 @@ This style contains options that can be configured during or after the install.
 ### Other
 - User-configurable variables are only provided in the UserCSS and USO code formats. Other style managers that support UserCSS may still allow this functionality.
 
+> _~~Looking for more options? Check out my [other theme](https://userstyles.world/style/8982/youtube-music-tweaks).~~_ **Coming soon!**
+
 ## 🛠 Code Formats
 The code here is available in UserCSS and raw Mozilla formats. Raw Mozilla format omits all user-configurable variables (if applicable) and keeps them at their default settings. USO format is not posted here due to complexity and seeing no tangible benefit.
 
