@@ -8,5 +8,5 @@ assignees: ''
 ---
 
 <!---
-Thanks for your interest! Share your visions or ideas here
+Thanks for your interest! Share your visions or ideas for this style here
 --->
