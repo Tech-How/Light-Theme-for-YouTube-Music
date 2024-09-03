@@ -22,6 +22,7 @@
 To install this style, you'll need a browser that supports custom CSS injection. 
 ### Chrome/Edge/Opera (And Chromium derivitives)
 - Download and install the [Stylish](https://chromewebstore.google.com/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) extension, then use the corresponding button above.
+- Note that the Stylish extension has numerous bugs, and parts of this style may misfunction. I recommend using Stylus.
 
 ### Firefox/LibreWolf/Floorp (And Mozilla derivitives)
 - Download and install the [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) add-on, then use the corresponding button above.
