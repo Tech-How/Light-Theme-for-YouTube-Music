@@ -14,8 +14,6 @@
   <a href="https://github.com/Tech-How/Light-Theme-for-YouTube-Music/releases" target="_blank"><img src="https://img.shields.io/badge/Get_the-Code-000000?style=for-the-badge&logo=github" alt="Get the Code"></a>
 </p>
 
-### The Stylish release is being delayed due to technical difficulties with the platform and porting the style. Hang tight!
-
 <p align="center"><a href="https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/light-ytm.user.css" target="_blank">Directly from GitHub</a></p>
 
 > _~~All UI enhancements are also available without this theme [here](https://userstyles.world/style/8982/youtube-music-tweaks).~~_ **Coming soon!**
