@@ -16,7 +16,7 @@
 
 <p align="center"><a href="https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/light-ytm.user.css" target="_blank">Directly from GitHub as UserCSS</a></p>
 
-> _~~All UI enhancements and more customization is also available without this theme [here](https://userstyles.world/style/8982/youtube-music-tweaks).~~_ **Coming soon!**
+> All UI enhancements and more customization is also available without this theme [here](https://userstyles.world/style/8982/youtube-music-tweaks).
 
 ## 🔽 Installation
 To install this style, you'll need a browser that supports custom CSS injection. 
@@ -44,8 +44,6 @@ This style contains options that can be configured during or after the install.
 
 ### Other
 - User-configurable variables are only provided in the UserCSS and USO code formats. Other style managers that support UserCSS may still allow this functionality.
-
-> _~~Looking for more options? Check out my [other theme](https://userstyles.world/style/8982/youtube-music-tweaks).~~_ **Coming soon!**
 
 ## 🛠 Code Formats
 The code here is available in UserCSS and raw Mozilla formats. Raw Mozilla format flattens all user-configurable variables (if applicable) and keeps them at their default settings. USO format is not posted here due to complexity and seeing no tangible benefit.
