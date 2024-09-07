@@ -48,7 +48,7 @@ This style contains options that can be configured during or after the install.
 > _~~Looking for more options? Check out my [other theme](https://userstyles.world/style/8982/youtube-music-tweaks).~~_ **Coming soon!**
 
 ## 🛠 Code Formats
-The code here is available in UserCSS and raw Mozilla formats. Raw Mozilla format omits all user-configurable variables (if applicable) and keeps them at their default settings. USO format is not posted here due to complexity and seeing no tangible benefit.
+The code here is available in UserCSS and raw Mozilla formats. Raw Mozilla format flattens all user-configurable variables (if applicable) and keeps them at their default settings. USO format is not posted here due to complexity and seeing no tangible benefit.
 
 ## 💬 Issues/Feedback
 You may report issues or suggest feedback [here](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/issues).
