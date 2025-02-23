@@ -46,7 +46,7 @@ This style contains options that can be configured during or after the install.
 ## 🛠 Code Formats
 The code here is available in UserCSS and raw Mozilla formats.
 - UserCSS format is the recommended way to install this style, as it supports all user-configurable variables. Your browser or style manager must support this format. [About UserCSS](https://github.com/openstyles/stylus/wiki/Usercss)
-- For compatibility reasons, I also maintain a stripped down version using the @-moz-document format. This format flattens all user-configurable variables to their default values, making them unchangable.
+- For compatibility reasons, I also maintain a stripped down version using just the @-moz-document format. This format flattens all user-configurable variables to their default values, making them unchangable.
 - Unfortunately, I cannot provide a pure .css file version of this theme due to its complexity. Certain styling needs to be activated on certain URL regex patterns, which mono-domain .css files cannot achieve.
 
 ## 💬 Issues/Feedback
