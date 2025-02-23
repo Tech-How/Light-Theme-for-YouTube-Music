@@ -57,4 +57,4 @@ You may report issues or suggest feedback [here](https://github.com/Tech-How/Lig
 - Non-square images may have square shadow outline
 - Logos on paid memberships page remain white
 - Downloading icon turns white during downloads on playlist/album view
-- Dropdowns on content reporting fly off the dialog
+- Dropdowns on content reporting can fly off the dialog
