@@ -21,7 +21,7 @@
 To install this style, you'll need a browser that supports custom CSS injection. 
 
 ### Chrome/Edge/Firefox/Opera
-(Or any browser based on Chromium or Firefox)
+(And other modern browsers)
 - Install the [Stylus](https://github.com/openstyles/stylus?tab=readme-ov-file#releases) extension, then come back here and click the "Install with Stylus" button above.
 
 ### Safari
