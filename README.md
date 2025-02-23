@@ -29,7 +29,9 @@ To install this style, you'll need a browser that supports custom CSS injection.
 > I have not tested this install method, but am listing it since Cascadea supports the UserCSS format, which is what this uses. Please share any feedback regarding this experience in a [new issue](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/issues).
 
 ### Mobile Browsers
-- This style supports the mobile website! On Android, you can use Firefox or the developer builds of Microsoft Edge. Mobile Chrome does not yet support extensions. On iOS, the Hyperweb app can inject CSS into Safari, but is not officially supported and may not work.
+This style supports the mobile website!
+- Android: Use the Stylus extension in a compatible browser. Firefox has full support for browser extensions, and Microsoft Edge support is currently in development. Google Chrome is not yet compatible.
+- iOS: iOS support is currently unavailable. Although Safari has support for browser extensions, none have been developed for UserStyle injection.
 
 ## 🎨 Customization
 This style contains options that can be configured during or after the install.
