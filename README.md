@@ -10,8 +10,7 @@
 
 <p align="center">
   <a href="https://userstyles.world/style/8981/light-theme-for-youtube-music" target="_blank"><img src="https://img.shields.io/badge/Install_with-Stylus-238b8b?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjE2cHgiIHdpZHRoPSIxNnB4IiB2ZXJzaW9uPSIxLjEiIGlkPSJYTUxJRF8yODhfIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiANCgkgdmlld0JveD0iMCAwIDI0IDI0IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxnIGlkPSJkb3dubG9hZCI+DQoJPGc+DQoJCTxwYXRoIGQ9Ik0yNCwyNEgwdi04aDJ2NmgyMHYtNmgyVjI0eiBNMTIsMTguNGwtNy43LTcuN2wxLjQtMS40bDUuMyw1LjNWMGgydjE0LjZsNS4zLTUuM2wxLjQsMS40TDEyLDE4LjR6Ii8+DQoJPC9nPg0KPC9nPg0KPC9zdmc+" alt="Install With Stylus"></a>
-  <a href="https://userstyles.org/styles/207587/light-theme-for-youtube-music" target="_blank"><img src="https://img.shields.io/badge/Install_with-Stylish-feb596?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjE2cHgiIHdpZHRoPSIxNnB4IiB2ZXJzaW9uPSIxLjEiIGlkPSJYTUxJRF8yODhfIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiANCgkgdmlld0JveD0iMCAwIDI0IDI0IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxnIGlkPSJkb3dubG9hZCI+DQoJPGc+DQoJCTxwYXRoIGQ9Ik0yNCwyNEgwdi04aDJ2NmgyMHYtNmgyVjI0eiBNMTIsMTguNGwtNy43LTcuN2wxLjQtMS40bDUuMyw1LjNWMGgydjE0LjZsNS4zLTUuM2wxLjQsMS40TDEyLDE4LjR6Ii8+DQoJPC9nPg0KPC9nPg0KPC9zdmc+" alt="Install With Stylish"></a>
-  <a href="https://github.com/Tech-How/Light-Theme-for-YouTube-Music/releases" target="_blank"><img src="https://img.shields.io/badge/Get_the-Code-000000?style=for-the-badge&logo=github" alt="Get the Code"></a>
+  <a href="https://github.com/Tech-How/Light-Theme-for-YouTube-Music/releases" target="_blank"><img src="https://img.shields.io/badge/View_the-Code-000000?style=for-the-badge&logo=github" alt="View the Code"></a>
 </p>
 
 <p align="center"><a href="https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/light-ytm.user.css" target="_blank">Directly from GitHub as UserCSS</a></p>
@@ -20,18 +19,17 @@
 
 ## 🔽 Installation
 To install this style, you'll need a browser that supports custom CSS injection. 
-### Chrome/Edge/Opera (And Chromium derivitives)
-- Download and install the [Stylish](https://chromewebstore.google.com/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) extension, then use the corresponding button above.
-- Note that the Stylish extension has numerous bugs, and parts of this style may misfunction. I recommend using Stylus.
 
-### Firefox/LibreWolf/Floorp (And Mozilla derivitives)
-- Download and install the [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) add-on, then use the corresponding button above.
+### Chrome/Edge/Firefox/Opera
+(Or any browser based on Chromium or Firefox)
+- Install the [Stylus](https://github.com/openstyles/stylus?tab=readme-ov-file#releases) extension, then come back here and click the "Install with Stylus" button above.
 
 ### Safari
 - Purchase [Cascadea](https://apps.apple.com/app/cascadea/id1432182561) from the Mac App Store, and use the Install with Stylus button. Follow the instructions provided by the application.
+> I have not tested this install method, but am listing it since Cascadea supports the UserStyle CSS format, which is what this is written in. Please share any feedback regarding this experience in a [new issue](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/issues).
 
 ### Mobile Browsers
-- This style supports the mobile website! Firefox for Android is officially supported, as it allows for desktop extensions like Stylus to run. On iOS, the Hyperweb app can inject CSS into Safari, but is not officially supported and may not work.
+- This style supports the mobile website! On Android, Chrome does not support installing extensions. You can use Firefox or the developer builds of Microsoft Edge. On iOS, the Hyperweb app can inject CSS into Safari, but is not officially supported and may not work.
 
 ## 🎨 Customization
 This style contains options that can be configured during or after the install.
