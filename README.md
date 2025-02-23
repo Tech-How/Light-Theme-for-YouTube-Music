@@ -26,7 +26,6 @@ To install this style, you'll need a browser that supports custom CSS injection.
 
 ### Safari
 - Purchase [Cascadea](https://apps.apple.com/app/cascadea/id1432182561) from the Mac App Store, and use the Install with Stylus button. Follow the instructions provided by the application.
-> I have not tested this install method, but am listing it since Cascadea supports the UserCSS format, which is what this uses. Please share any feedback regarding this experience in a [new issue](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/issues).
 
 ### Mobile Browsers
 This style supports the mobile website!
