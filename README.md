@@ -38,11 +38,8 @@ This style contains options that can be configured during or after the install.
 ### Stylus
 - Customize the style using the configure pop-up in the upper right during the installation. To change settings after the installation, visit the website the style applies to, click the Stylus icon in your browser's toolbar, and select the gear icon next to the style's name.
 
-### Stylish
-- Customize the style using the gear icon next to the 'Install Style' button on the style's home page. To change settings after the installation, you must remove the style, and re-install it with the new settings.
-
 ### Other
-- User-configurable variables are only provided in the UserCSS and USO code formats. Other style managers that support UserCSS may still allow this functionality.
+- User-configurable variables are only provided in the UserCSS code format. Other style managers that support UserCSS may still allow this functionality.
 
 ## 🛠 Code Formats
 The code here is available in UserCSS and raw Mozilla formats.
