@@ -13,7 +13,7 @@
      id="defs1"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath5"><rect
-         style="fill:#fa0000;fill-opacity:1;stroke-width:0.263203"
+         style="fill:#ff0033;fill-opacity:1;stroke-width:0.263203"
          id="rect6"
          width="7.4161"
          height="8.2875767"
@@ -27,13 +27,13 @@
          cy="12"
          rx="12.18"
          ry="12"
-         fill="#ff0000"
+         fill="#ff0033"
          id="ellipse1" /><ellipse
          cx="12.18"
          cy="12"
          rx="7.3080001"
          ry="7.1999998"
-         fill="#ff0000"
+         fill="#ff0033"
          stroke="#ffffff"
          stroke-width="1.2"
          id="ellipse2" /><path
