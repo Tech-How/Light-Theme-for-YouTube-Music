@@ -20,17 +20,12 @@
 ## 🔽 Installation
 To install this style, you'll need a browser that supports custom CSS injection. 
 
-### Chrome/Edge/Firefox/Opera
-(And other modern browsers)
+### Desktop Browsers
 - Install the [Stylus](https://github.com/openstyles/stylus?tab=readme-ov-file#releases) extension, then come back here and click the "Install with Stylus" button above.
 
-### Safari
-- Purchase [Cascadea](https://apps.apple.com/app/cascadea/id1432182561) from the Mac App Store, and use the Install with Stylus button. Follow the instructions provided by the application.
-
 ### Mobile Browsers
-This style supports the mobile website!
-- Android: Use the Stylus extension in a compatible browser. Firefox has full support for browser extensions, and Microsoft Edge support is currently in development. Google Chrome is not yet compatible.
-- iOS: iOS support is currently unavailable. Although Safari has support for browser extensions, none have been developed for UserStyle injection.
+- Android: Use the Stylus extension in a compatible browser. Firefox has full support for browser extensions, and Microsoft Edge support is currently in development. Google Chrome does not allow extensions on mobile.
+- iOS: iOS support is currently unavailable. No compatible extensions have been developed for Safari, and third-party app implementation is unreliable.
 
 ## 🎨 Customization
 This style contains options that can be configured during or after the install.
