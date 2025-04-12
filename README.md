@@ -31,7 +31,7 @@ To install this style, you'll need a browser that supports custom CSS injection.
 This style contains options that can be configured during or after the install.
 
 ### Stylus
-- Customize the style using the configure pop-up in the upper right during the installation. To change settings after the installation, visit the website the style applies to, click the Stylus icon in your browser's toolbar, and select the gear icon next to the style's name.
+- Customize the style using the pop-up in the upper right during the installation. To change settings after the installation, visit the website the style applies to, click the Stylus icon in your browser's toolbar, and select the gear icon next to the style's name.
 
 ### Other
 - User-configurable variables are only provided in the UserCSS code format. Other style managers that support UserCSS may still allow this functionality.
