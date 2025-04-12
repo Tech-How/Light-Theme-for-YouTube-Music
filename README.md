@@ -25,7 +25,7 @@ To install this style, you'll need a browser that supports custom CSS injection.
 
 ### Mobile Browsers
 - Android: Use the Stylus extension in a compatible browser. Firefox has full support for browser extensions, and Microsoft Edge support is currently in development. Google Chrome does not support extensions on mobile.
-- iOS: iOS support is currently unavailable. No compatible extensions have been developed for Safari, and third-party app implementation is unreliable.
+- iOS: Support is currently unavailable. No compatible extensions have been developed for Safari, and third-party app implementation is unreliable.
 
 ## 🎨 Customization
 This style contains options that can be configured during or after the install.
