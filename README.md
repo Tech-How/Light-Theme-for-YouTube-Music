@@ -22,6 +22,7 @@ To install this style, you'll need a browser that supports custom CSS injection.
 
 ### Desktop Browsers
 - Install the [Stylus](https://github.com/openstyles/stylus?tab=readme-ov-file#releases) extension, then come back here and click the "Install with Stylus" button above.
+- If you enjoy it, consider leaving a star to show your appreciation!
 > Safari users should use another supported browser. Extensions for desktop Safari do exist, but I have not tested them and thus cannot guarantee their compatibility.
 
 ### Mobile Browsers
