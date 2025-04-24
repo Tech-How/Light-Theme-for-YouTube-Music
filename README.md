@@ -44,7 +44,7 @@ The code here is available in UserCSS, @-moz-document, and .css file formats. Yo
 - If you are unable to use any of the above formats, I have also created a pure .css file version. This version lacks some of the visual polish of the full version, but it's sufficient enough for most use-cases.
 
 ## 💬 Issues/Feedback
-You may report issues or suggest feedback [here](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/issues).
+You may report issues or suggest feedback [here](https://github.com/Tech-How/Light-Theme-for-YouTube-Music/issues). Please do not report bugs if you're using the pure .css file version, without first testing on the full version.
 
 ## ❗ Known Issues
 - Non-square images may have square shadow outline
