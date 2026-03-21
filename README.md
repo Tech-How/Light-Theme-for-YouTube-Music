@@ -13,6 +13,8 @@
 
 <p align="center"><a href="https://raw.githubusercontent.com/Tech-How/Light-Theme-for-YouTube-Music/main/light-ytm.user.css" target="_blank">Directly from GitHub as UserCSS</a></p>
 
+> This style is no longer actively developed, and any new updates will be pushed when I have spare time. Feel free to fork this project and experiment with it.
+> 
 > All UI enhancements and more customization is also available without this theme [here](https://userstyles.world/style/8982/youtube-music-tweaks).
 
 ## 🔽 Installation
